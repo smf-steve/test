@@ -1,2 +1,8 @@
-hello
-3
+# Example of a merge conflict
+
+This line is the same in both files
+
+This line is only in the MAIN branch
+
+This line is the same in both files
+
