@@ -2,11 +2,7 @@
 
 This line is the same in both files
 
-<<<<<<< HEAD
 This line is in both branches but differ: main
-=======
-This line is in both branches but differ: test
->>>>>>> test
 
 This line is the same in both files
 
